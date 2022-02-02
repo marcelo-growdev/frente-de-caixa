@@ -2,4 +2,4 @@
 
 Aplicação desenvolvida para estudos, usando Bootstrap e JavaScript.
 
-![image]("./images/screenshot.png")
+![image]("https://github.com/marcelo-growdev/frente-de-caixa/blob/master/images/screenshot.png?raw=true")
